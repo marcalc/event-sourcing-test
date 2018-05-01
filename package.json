@@ -1,5 +1,5 @@
 {
-  "name": "REPLACE_ME",
+  "name": "event-sourcing-app",
   "version": "1.0.0",
   "description": "Simple Hello World that listens on localhost:8080",
   "main": "server.js",
